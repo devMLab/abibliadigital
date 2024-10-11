@@ -1,6 +1,6 @@
 FROM mongo:3.6.3
 
-EXPOSE 27017
+EXPOSE 27117
 
 ADD run.sh /run.sh
 
